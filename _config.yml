@@ -74,7 +74,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "知乎"
+        title: "知乎",
         href: "https://www.zhihu.com/people/mei-kun-17-53/"
     }
 ]
