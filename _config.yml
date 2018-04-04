@@ -41,11 +41,13 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: kun_mei
+disqus:
+  enable: true
+  username: kun_mei
 
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
+  enable: true   #是否开启Gitalk评论
   clientID: 12bf57d4be8d99a236a9                            #生成的clientID
   clientSecret: 79d7c9bbf8e07d3477d9c5df2922c5b983dcf1a6    #生成的clientSecret
   repo: blog           #仓库名称
