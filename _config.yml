@@ -12,7 +12,7 @@ github_repo: "https://github.com/kunmei/blog.git" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Further and Further"
-sidebar-avatar: /img/mk.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /blog/img/mk.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # SNS settings
