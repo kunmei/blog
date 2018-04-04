@@ -41,9 +41,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus:
-  enable: true
-  username: kun_mei
+disqus_username: kun_mei
 
 # Gitalk
 gitalk:
