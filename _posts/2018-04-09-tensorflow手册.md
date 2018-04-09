@@ -9,9 +9,9 @@ tags:
     - 深度学习
     - tensorflow
 ---
-### Tutorials
+### 中文手册
 本章节包含如何在Tensorflow中做特别任务的手册说明。如果你是Tensorflow的新手，
-我建议你们先阅读"Get Started"的章节。
+我建议你们先阅读"[开始](https://www.tensorflow.org/get_started/?hl=zh-cn)"的章节。
 
 #### 图像
 下面手册覆盖了图像识别的不同方面:
