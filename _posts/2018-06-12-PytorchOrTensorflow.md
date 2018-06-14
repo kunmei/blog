@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      深度学习
+title:      网络框架
 subtitle:   Pytorch or Tensorflow
 date:       2018-06-12
 author:     john
