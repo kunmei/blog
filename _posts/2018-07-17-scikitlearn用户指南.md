@@ -153,7 +153,7 @@ BayesianRidge(alpha_1=1e-06, alpha_2=1e-06, compute_score=False, copy_X=True,
 #### <span id="lr">逻辑回归</span>
 logistic回归在sklearn中的实现可以通过LogisticRegression进行回归。该实现可以对多分类(one-vs-rest)logistic回归进行拟合，正则项为:L2或L1范式。
 
-LogisticRegression的实现方式有: "liblinear"(c++封装库)，"newton-cg"，"lbfgs"和"sag"。其中"lbfgs"和"newton-cg"只支持L2罚项，对于高维数据集来说收敛更快。L1罚项会产生稀疏预测权重。关于不同solver的选择如下:
+LogisticRegression的实现方式有: “liblinear”(c++封装库)，“newton-cg”，“lbfgs”和“sag”。其中“lbfgs”和“newton-cg”只支持L2罚项，对于高维数据集来说收敛更快。L1罚项会产生稀疏预测权重。关于不同solver的选择如下:
 
 case  |  solver
 --|--
