@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      scikit-learn用户指南
-subtitle:   监督学习
+subtitle:   监督学习-广义线性模型
 date:       2018-07-17
 author:     john
 catalog: true
