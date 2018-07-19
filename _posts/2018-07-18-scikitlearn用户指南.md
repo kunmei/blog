@@ -15,3 +15,5 @@ tags:
 
 #### 使用线性判别分析进行降维
 线性判别分析可用于执行有监督的降维，通过将输入数据投影到线性子空间，该线性子空间由最大化类之间分离的方向组成。输出的维度必然小于类的数量，因此这相当于一个相当强的维度减少，并且只在多类设置中有意义。
+
+关于LDA和QDA的使用可以参见[notebook](https://github.com/kunmei/python_visualization/blob/master/scikit-learn/LDA-QDA.ipynb)。
