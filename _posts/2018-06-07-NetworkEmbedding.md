@@ -7,8 +7,7 @@ author:     john
 ## header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - Network
-    - Embedding
+    - 深度学习
 ---
 ### DeepWalk
 论文地址[DeepWalk: Online Learning of Social Representations](http://www.perozzi.net/publications/14_kdd_deepwalk.pdf)

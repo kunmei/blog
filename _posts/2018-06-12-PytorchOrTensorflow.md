@@ -8,8 +8,6 @@ author:     john
 catalog: true
 tags:
     - 深度学习
-    - pytorch
-    - tensorflow
 ---
 ### 前言
 Pytorch更适合于在研究中快速进行原型设计、业余爱好者和小型项目；Tensorflow则更适合大规模的调度，尤其当考虑到跨平台和嵌入式调用操作时。

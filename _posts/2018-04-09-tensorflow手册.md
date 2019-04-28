@@ -7,7 +7,6 @@ author:     john
 catalog: true
 tags:
     - 深度学习
-    - tensorflow
 ---
 ### 中文手册
 本章节包含如何在Tensorflow中做特别任务的手册说明。如果你是Tensorflow的新手，

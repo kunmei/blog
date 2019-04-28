@@ -7,7 +7,6 @@ author:     john
 catalog: true
 tags:
     - 深度学习
-    - tensorflow
 ---
 ### 前言
 &emsp;&emsp;`Tensorflow`是基于图(Graph)的计算系统。图的节点是由操作(operation)构成的，图的各个节点之间是由张量(Tensor)作为边连接在一起的。Tensorflow的计算过程是一个Tensor流图，而图必须是在一个Session中计算的。
